@@ -10,14 +10,6 @@ This webpage is dedicated for the students of Digital Systems Design Lab class, 
 
 ### References
 
-The Refrence Textbook: C Programming: A Modern Approach, by K.N King. [ReadMe](https://github.com/Embed-Threads/Learn-C/blob/main/books/c-programming-a-modern-approach-2nbsped-0393979504-9780393979503_compress.pdf)
-
-Solutions for the reference:
-[ReadMe](https://github.com/SuperMoudy/C-programming-A-Modern-Approach-2nd-ed-Solutions)
-
-Additional Lectures by MIT Press:
-[ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/lecture-notes/)
-
 
 ### Lectures
 
