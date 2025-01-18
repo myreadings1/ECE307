@@ -5,7 +5,7 @@ This webpage is dedicated for the students of Digital Systems Design Lab class, 
 ### Class Instructor: Wahhab R. Mousa, Ph.D.
 ### Mr. Salam Khadum
 
-### General Notes About This Course [Read the notes.]([https://github.com/myreadings1/ECE211_Prog_III/blob/main/General_Notes.md ](https://github.com/myreadings1/ECE307/blob/main/General_Notes.md)
+### General Notes About This Course [Read the notes.](https://github.com/myreadings1/ECE307/blob/main/General_Notes.md)
 
 
 ### References
