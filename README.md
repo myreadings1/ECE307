@@ -2,7 +2,8 @@
 
 This webpage is dedicated for the students of Digital Systems Design Lab class, with the University of Kufa.
 
-### Class Instructor: Wahhab R. Mousa, Ph.D.
+### Class Instructors: 
+### Wahhab R. Mousa, Ph.D.
 ### Mr. Salam Khadum
 
 ### General Notes About This Course [Read the notes.](https://github.com/myreadings1/ECE307/blob/main/General_Notes.md)
