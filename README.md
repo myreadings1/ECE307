@@ -13,7 +13,7 @@ This webpage is dedicated for the students of Digital Systems Design Lab class, 
 
 
 ### Lectures
-
+[Lecture 1 ]()
 
 ### Exams
 
