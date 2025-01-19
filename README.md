@@ -10,6 +10,7 @@ This webpage is dedicated for the students of Digital Systems Design Lab class, 
 
 
 ### References
+1- [Link to Refrences](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
 
 
 ### Lectures
