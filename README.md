@@ -13,7 +13,7 @@ This webpage is dedicated for the students of Digital Systems Design Lab class, 
 
 
 ### Lectures
-[Lecture 1 ]()
+[Lecture 1 ](https://github.com/myreadings1/ECE307/blob/main/Lec1-%20Intro.pptx-2.pdf)
 
 ### Exams
 
