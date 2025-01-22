@@ -18,6 +18,13 @@ This webpage is dedicated for the students of Digital Systems Design Lab class, 
 
 2- [Lecture 2 ]()
 
+
+### LAB Lectures
+1- [Lecture 1 Jan 22, 2025](https://github.com/myreadings1/ECE307/blob/main/Quartus_Prime_Introduction.pdf)
+
+2- [Lecture 2 ]()
+
+
 ### Exams
 
 
