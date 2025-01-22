@@ -4,7 +4,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 
 ### Class Instructors: 
 ### Wahhab R. Mousa, Ph.D.
-### Mr. Salam Khadum
+### Salam Khadhim, M.Sc.
 
 ### General Notes About This Course [Read the notes.](https://github.com/myreadings1/ECE307/blob/main/General_Notes.md)
 
