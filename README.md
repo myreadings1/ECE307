@@ -14,7 +14,7 @@ This webpage is dedicated for the students of Digital Systems Design Lab class, 
 
 
 ### Lectures
-1- [Lecture 1 ](https://github.com/myreadings1/ECE307/blob/main/Lec1-%20Intro.pptx-2.pdf)
+1- [Lecture 1 Jan 19, 2025](https://github.com/myreadings1/ECE307/blob/main/Lec1-%20Intro.pptx-2.pdf)
 
 2- [Lecture 2 ]()
 
