@@ -1,6 +1,6 @@
 # ECE307 Digital Systems Design Lab
 
-This webpage is dedicated for the students of Digital Systems Design Lab class, with the University of Kufa.
+This webpage is dedicated for the students of the ECE307 Digital Systems Design Lab class, with the University of Kufa.
 
 ### Class Instructors: 
 ### Wahhab R. Mousa, Ph.D.
