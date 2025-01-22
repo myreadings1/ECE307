@@ -16,6 +16,9 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 ### Lectures
 1- [Lecture 1 Jan 19, 2025](https://github.com/myreadings1/ECE307/blob/main/Lec1-%20Intro.pptx-2.pdf)
 
+-- [How to implement a simple project with Quartus](https://drive.google.com/file/d/1O9OtenPpXRIdyCS_XACpUj2nbScvsJL0/view?usp=drive_link)
+
+
 2- [Lecture 2 ]()
 
 
