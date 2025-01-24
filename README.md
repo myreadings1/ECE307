@@ -31,7 +31,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 ### Exams
 
 
-### Mini Project
+### Projects
 
 
 ### Homeworks
