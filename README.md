@@ -11,7 +11,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 
 ### Reference
 
-1- [Digital Design with an Introduction to The Verilog hdl vhdl and System Verilog](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=sharing) 
+1- Digital Design with an Introduction to The Verilog hdl vhdl and System Verilog [Link](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=sharing) 
 
 
 2- Extra References: [Link to Refrences](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
@@ -23,7 +23,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 -- [How to implement a simple project with Quartus](https://drive.google.com/file/d/1O9OtenPpXRIdyCS_XACpUj2nbScvsJL0/view?usp=drive_link)
 
 
-2- Lecture 2: Sec 4.12 [Link To The TextBook](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=sharing)
+2- Lecture 2: Sec 4.12 Of The Reference Textbook
 
 
 ### LAB Lectures
