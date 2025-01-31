@@ -23,7 +23,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 -- [How to implement a simple project with Quartus](https://drive.google.com/file/d/1O9OtenPpXRIdyCS_XACpUj2nbScvsJL0/view?usp=drive_link)
 
 
-2- Lecture 2: Sec 4.12 Of The Reference Textbook
+2- Lecture 2: Sec 4.12 (See The Reference Textbook).
 
 
 ### LAB Lectures
