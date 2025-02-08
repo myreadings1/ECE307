@@ -1,0 +1,45 @@
+-- Implements a 2-bit wide 4-to-1 multiplexer.
+-- inputs:  SW7-0 represent data in 4 groups, U-X
+--        SW9-8 selects one group from U to X
+-- outputs: LEDR1-0 displays the selected group
+
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+-- Simple module that connects the SW switches to the LEDR lights
+ENTITY part3 IS 
+   PORT ( SW   : IN   STD_LOGIC_VECTOR(9 DOWNTO 0);
+          LEDR : OUT  STD_LOGIC_VECTOR(9 DOWNTO 0));  -- red LEDs
+END part3;
+
+ARCHITECTURE Structure OF part3 IS
+   SIGNAL m_0, m_1 : STD_LOGIC;   
+      -- m_0 is used for intermediate 
+      -- multiplexer to produce the 
+      -- 3-to-1 multiplexer M(0), m_1 is
+      -- for M(1)
+   SIGNAL S, U, V, W, X, M : STD_LOGIC_VECTOR(1 DOWNTO 0); 	-- M is the 2-bit 4-to-1 multiplexer
+	SIGNAL U_V, W_X			: STD_LOGIC_VECTOR(1 DOWNTO 0);	-- used for first multiplexer stage,
+																				-- U_V selects either U or V, and 
+																				-- W_X selects either W or X
+	
+BEGIN
+   S(1 DOWNTO 0) <= SW(9 DOWNTO 8);
+   U <= SW(1 DOWNTO 0);
+   V <= SW(3 DOWNTO 2);
+   W <= SW(5 DOWNTO 4);
+   X <= SW(7 DOWNTO 6);
+   
+	-- 2-bit wide 4-to-1 multiplexer first stage
+	U_V(0) <= (NOT(S(0)) AND U(0)) OR (S(0) AND V(0));	
+	U_V(1) <= (NOT(S(0)) AND U(1)) OR (S(0) AND V(1));	
+	W_X(0) <= (NOT(S(0)) AND W(0)) OR (S(0) AND X(0));	
+	W_X(1) <= (NOT(S(0)) AND W(1)) OR (S(0) AND X(1));	
+
+	-- 2-bit wide 4-to-1 multiplexer second stage
+	M(0) <= (NOT(S(1)) AND U_V(0)) OR (S(1) AND W_X(0));
+	M(1) <= (NOT(S(1)) AND U_V(1)) OR (S(1) AND W_X(1));
+
+   LEDR(1 DOWNTO 0) <= M;
+   LEDR(9 DOWNTO 2) <= "00000000";
+END Structure;
