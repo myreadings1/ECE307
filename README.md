@@ -34,7 +34,7 @@ You need to visit course webpage on [Moodle](https://elearning7.uokufa.edu.iq/en
 
 1- [Lecture 1 Jan 22, 2025](https://github.com/myreadings1/ECE307/blob/main/Quartus_Prime_Introduction.pdf)
 
-2- [Lecture 2 Feb 04, 2025](https://github.com/myreadings1/ECE307/blob/main/Lec2_Lab_%20part%202.pdf), VHDL [notes](https://github.com/myreadings1/ECE307/blob/main/Lec2_Lab_Exc1_vhdl.pdf)
+2- [Lecture 2 Feb 04, 2025](https://github.com/myreadings1/ECE307/blob/main/Lec2_Lab_%20part%202.pdf), VHDL [notes](https://github.com/myreadings1/ECE307/blob/main/Lec2_Lab_Exc1_vhdl.pdf), Code [file](https://github.com/myreadings1/ECE307/blob/main/Lec2_Lab_Part%203%20vhdl)
 
 
 ### Exams
