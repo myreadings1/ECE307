@@ -28,10 +28,14 @@ Sec 4.12 (See The Reference Textbook).
 
 
 ### LAB Lectures
+Note: Virtual Lab (Learn Hardware design with FPGAs using DE1-SoC)
+You need to visit course webpage on [Moodle](https://elearning7.uokufa.edu.iq/eng/course/view.php?id=3562) to visit the virtual lab link.
+
+
 1- [Lecture 1 Jan 22, 2025](https://github.com/myreadings1/ECE307/blob/main/Quartus_Prime_Introduction.pdf)
 
-2- [Lecture 2 ]()
-Access Virtual Lab (Learn Hardware design with FPGAs using DE1-SoC)[https://labsland.com/lti/v2/shrcrrhkcb47367743/de1-ide-vhdl/]
+2- [Lecture 2 ](https://github.com/myreadings1/ECE307/blob/main/Lec2_Lab_%20part%202.pdf)
+
 
 ### Exams
 
