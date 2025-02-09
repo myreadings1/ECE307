@@ -29,7 +29,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 -- [How to implement a simple project with Quartus](https://drive.google.com/file/d/1O9OtenPpXRIdyCS_XACpUj2nbScvsJL0/view?usp=drive_link)
 
 
-2- Lecture 2 (Date: Feb 2nd, 2025): [Link](https://github.com/myreadings1/ECE307/blob/main/Lec2-%20FPGA.pptx.pdf)
+2- Lecture 2 (Date: Feb 2, 2025): [Link](https://github.com/myreadings1/ECE307/blob/main/Lec2-%20FPGA.pptx.pdf)
 Sec 4.12 (See The Reference Textbook).
 
 3- Lecture 3 (Date: Feb 9, 2025) [Link](https://drive.google.com/file/d/11fu13oChZ2wsF240I4_sszNLO6vm8aTL/view?usp=sharing)
