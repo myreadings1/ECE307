@@ -39,6 +39,8 @@ Sec 4.12 (See The Reference Textbook).
 ### Homeworks
 1- HW1 Due Feb 9, 2025 (VHDL code and details should be sent by Email)
 
+2- HW2 Due Feb 16, 2025. Draw suitable solutions for the following problems and provide VHDL code to implement them on Altera FPGA  (Problems: 5.11, 5.12, and 5.13 Reference 1 Chapter5)
+
 ### LAB Lectures
 Note: Virtual Lab (Learn Hardware design with FPGAs using DE1-SoC)
 You need to visit course webpage on [Moodle](https://elearning7.uokufa.edu.iq/eng/course/view.php?id=3562) to visit the virtual lab link.
@@ -55,4 +57,4 @@ Quiz1 (Feb 23, 2025)
 ### Projects
 
 
-### Homeworks
+
