@@ -47,7 +47,7 @@ You need to visit course webpage on [Moodle](https://elearning7.uokufa.edu.iq/en
 
 
 ### Exams
-
+Quiz1 (Feb 23, 2025)
 
 ### Projects
 
