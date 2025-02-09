@@ -9,13 +9,16 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 ### General Notes About This Course [Read the notes.](https://github.com/myreadings1/ECE307/blob/main/General_Notes.md)
 
 
-### Reference
+### References
 
 1- Digital Design with an Introduction to The Verilog hdl vhdl and System Verilog by M. Morris R. Mano (Author), Michael D. Ciletti (Author)  [Link](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=sharing) 
 
 2- VHDL Coding And Logic Synthesis [Link](https://drive.google.com/file/d/1WG-vi4pcUCY9YB8IVhpIj1SlwiwiexEo/view?usp=drivesdk)
 
-3- Extra Resources: [Link to Refrences](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
+3- The Designer's Guide to VHDL, Third Edition (Systems on Silicon) by Peter J. Ashenden (Author)
+[Link](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=sharing)
+
+3- Extra Resources: [Link](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
 
 
 ### Lectures
