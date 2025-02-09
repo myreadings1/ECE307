@@ -18,7 +18,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 3- The Designer's Guide to VHDL, Third Edition (Systems on Silicon) by Peter J. Ashenden (Author)
 [Link](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=sharing)
 
-3- Extra Resources: [Link](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
+4- Extra Resources: [Link](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
 
 
 ### Lectures
