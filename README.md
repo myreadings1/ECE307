@@ -30,6 +30,9 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 2- Lecture 2 Feb 2nd, 2025: [Slides](https://github.com/myreadings1/ECE307/blob/main/Lec2-%20FPGA.pptx.pdf)
 Sec 4.12 (See The Reference Textbook).
 
+3- Lecture 3 Feb 9, 2025 [Link](https://drive.google.com/file/d/11fu13oChZ2wsF240I4_sszNLO6vm8aTL/view?usp=sharing)
+
+4- Lecture 4 [Link](https://drive.google.com/file/d/1MGl8jk2hgxUkxoEYZRkoNX3R6LYzuiMB/view?usp=sharing)
 
 ### LAB Lectures
 Note: Virtual Lab (Learn Hardware design with FPGAs using DE1-SoC)
