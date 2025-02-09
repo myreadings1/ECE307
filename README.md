@@ -55,6 +55,7 @@ You need to visit course webpage on [Moodle](https://elearning7.uokufa.edu.iq/en
 Quiz1 (Feb 23, 2025)
 
 ### Projects
+Course Project (To be arranged)..
 
 
 
