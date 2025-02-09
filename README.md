@@ -36,6 +36,9 @@ Sec 4.12 (See The Reference Textbook).
 
 4- Lecture 4 (Date: TBA) [Link](https://drive.google.com/file/d/1MGl8jk2hgxUkxoEYZRkoNX3R6LYzuiMB/view?usp=sharing)
 
+### Homeworks
+1- HW1 Due Feb 9, 2025 (VHDL code and details should be sent by Email)
+
 ### LAB Lectures
 Note: Virtual Lab (Learn Hardware design with FPGAs using DE1-SoC)
 You need to visit course webpage on [Moodle](https://elearning7.uokufa.edu.iq/eng/course/view.php?id=3562) to visit the virtual lab link.
