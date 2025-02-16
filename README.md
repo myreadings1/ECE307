@@ -36,6 +36,8 @@ Sec 4.12 (See The Reference Textbook).
 
 4- Lecture 4 (Date: Feb 9, 2025) [Link](https://drive.google.com/file/d/1MGl8jk2hgxUkxoEYZRkoNX3R6LYzuiMB/view?usp=sharing)
 
+5- Lecture 5 (Date: Feb 16, 2025) [Link](https://drive.google.com/file/d/1wPfPMnPsWG6BcfXuofVolk5adw6dAvSO/view?usp=drive_link)
+
 ### Homeworks
 1- HW1 Due Feb 9, 2025 (VHDL code and details should be sent by Email)
 
