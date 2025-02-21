@@ -32,9 +32,9 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 2- Lecture 2 (Date: Feb 2, 2025): [Link](https://drive.google.com/file/d/1MGcaexdpgbZLYdZViw0qf2gQsHQYplOV/view?usp=drive_link)
 Sec 4.12 (See The Reference Textbook).
 
-3- Lecture 3 (Date: Feb 9, 2025) [Link](https://drive.google.com/file/d/11fu13oChZ2wsF240I4_sszNLO6vm8aTL/view?usp=sharing)
+3- Lecture 3 (Date: Feb 9, 2025) [Link](https://drive.google.com/file/d/1v465AIp8WXD4ile3Rc1qz2p1i64UStLi/view?usp=drive_link)
 
-4- Lecture 4 (Date: Feb 9, 2025) [Link](https://drive.google.com/file/d/1MGl8jk2hgxUkxoEYZRkoNX3R6LYzuiMB/view?usp=sharing)
+4- Lecture 4 (Date: Feb 9, 2025) [Link](https://drive.google.com/file/d/1IH_9kgFvoE2NZVyVAywiPAVl-TA_ZDhd/view?usp=drive_link)
 
 5- Lecture 5 (Date: Feb 16, 2025) [Link](https://drive.google.com/file/d/1wPfPMnPsWG6BcfXuofVolk5adw6dAvSO/view?usp=drive_link)
 
