@@ -20,6 +20,8 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 
 4- Circuit Design and Simulation with VHDL, Second edition, Volnei A. Pedroni [Link](https://drive.google.com/file/d/1PC2VUzPonmYPslNSovTmmp2mPv8UF6RO/view?usp=sharing)
 
+5- Computer Organization and Design: The Hardware/Software Interface, ARM® Edition[Link]([Link](https://drive.google.com/file/d/1XHrH-naVRDglrNmlE6nt5UqhV9rnPK2v/view?usp=sharing))
+
 5- Extra Resources: [Link](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
 
 
@@ -37,6 +39,9 @@ Sec 4.12 (See The Reference Textbook).
 4- Lecture 4 (Date: Feb 9, 2025) [Link](https://drive.google.com/file/d/1IH_9kgFvoE2NZVyVAywiPAVl-TA_ZDhd/view?usp=drive_link)
 
 5- Lecture 5 (Date: Feb 16, 2025) [Link](https://drive.google.com/file/d/1wPfPMnPsWG6BcfXuofVolk5adw6dAvSO/view?usp=drive_link)
+
+6- Lecture 6 (Date: Mar 2, 2025) [Link]()
+
 
 ### Homeworks
 1- HW1 Due Feb 9, 2025 (VHDL code and details should be sent by Email)
