@@ -77,9 +77,12 @@ On Moodle, you also find the Virtual Lab (Learn Hardware design with FPGAs using
 
 
 
-### Projects
+### Mini Projects For This Course
+- Projects are due on April 28th, 2025.
+- You need to implement your code on tools available in the lab. 
 - Students can work as teams. Each team can be up to two students.
 - You need to submit a report and VHDL code that is implemented on the tools available on your lab.
+- You need to send me an email reporting students names for each project.
 - List of mini projects for this course. [Link](https://github.com/myreadings1/ECE307/blob/main/ECE307_mini_projects.md)
 
 
