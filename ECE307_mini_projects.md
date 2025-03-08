@@ -16,11 +16,9 @@ Note: For the folloing mini projects, you need to find details in Reference5.
 
 - Design and implementation of Bluetooth wireless signal receiver/transmitter.
 
-- Design and Implementation of 16-bit Arithmetic Logic Unit (+ and -)
+- Design and Implementation of 16-bit Arithmetic Logic Unit (+, -, * , and /)
 
 - Design and Implementation of 16-bit Floating Point Arithmetic Unit (+ - * /) 
-
-- Design and Implementation of 61-bit Arithmetic Unit ( * and /)
 
 - Design and implementation of data memory instructions (Store and Load)
 
