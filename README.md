@@ -20,7 +20,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 
 4- Circuit Design and Simulation with VHDL, Second edition, Volnei A. Pedroni [Link](https://drive.google.com/file/d/1PC2VUzPonmYPslNSovTmmp2mPv8UF6RO/view?usp=sharing)
 
-5- Computer Organization and Design: The Hardware/Software Interface, ARM® Edition[Link](https://drive.google.com/file/d/1XHrH-naVRDglrNmlE6nt5UqhV9rnPK2v/view?usp=sharing)
+5- Computer Organization and Design: The Hardware/Software Interface, ARM® Edition [Link](https://drive.google.com/file/d/1XHrH-naVRDglrNmlE6nt5UqhV9rnPK2v/view?usp=sharing)
 
 5- Extra Resources: [Link](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
 
