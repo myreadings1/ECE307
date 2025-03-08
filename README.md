@@ -79,6 +79,7 @@ On Moodle, you also find the Virtual Lab (Learn Hardware design with FPGAs using
 
 ### Projects
 - Students can work as teams. Each team can be up to two students.
+- You need to submit a report and VHDL code that is implemented on the tools available on your lab.
 - List of mini projects for this course. [Link](https://github.com/myreadings1/ECE307/blob/main/ECE307_mini_projects.md)
 
 
