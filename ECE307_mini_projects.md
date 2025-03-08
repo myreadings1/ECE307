@@ -2,6 +2,7 @@
 ### 2024 - 2025 Spring Semester 
 
 ### List of Mini Projects
+Note: For the folloing mini projects, you need to find details in Reference5.
 
 - Design and implementation of instruction decoding unit that detects “data hazards”.
 
