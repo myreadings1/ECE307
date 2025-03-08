@@ -42,6 +42,8 @@ Sec 4.12 (See The Reference Textbook).
 
 6- Lecture 6 (Date: Mar 2, 2025) [Link]()
 
+7- Lecture 7 (Date: Mar 9th, 2025) [Link]()
+
 
 ### Homeworks
 
