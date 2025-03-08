@@ -3,29 +3,29 @@
 
 ### List of Mini Projects
 
-1- Design and Implementation of 16-bit Arithmetic Logic Unit (+ and -)
+- Design and implementation of instruction decoding unit that detects “data hazards”.
 
-2- Design and Implementation of 16-bit Floating Point Arithmetic Unit (+ - * /) 
+- Design and implementation of instruction decoding unit that detects “control hazards”.
 
-3- Design and Implementation of 61-bit Arithmetic Unit ( * and /)
+- Design and implementation of instruction decoding unit that detects “structural hazards”.
 
-4- Design and implementation of data memory instructions (Store and Load)
+- Design and implementation of pipeline data path.
 
-5- Design and implementation of control statements (condition and loops). 
+- Design and implementation of a fully associated memory unit. 
 
-6- Design and implementation of a control unit for the LEGv8 instructions.
+- Design and implementation of Bluetooth wireless signal receiver/transmitter.
 
-7- Design and implementation of instruction decoding unit that detects “data hazards”.
+- Design and Implementation of 16-bit Arithmetic Logic Unit (+ and -)
 
-8- Design and implementation of instruction decoding unit that detects “control hazards”.
+- Design and Implementation of 16-bit Floating Point Arithmetic Unit (+ - * /) 
 
-9- Design and implementation of instruction decoding unit that detects “structural hazards”.
+- Design and Implementation of 61-bit Arithmetic Unit ( * and /)
 
-10- Design and implementation of pipeline data path.
+- Design and implementation of data memory instructions (Store and Load)
 
-11- Design and implementation of a fully associated memory unit. 
+- Design and implementation of control statements (condition and loops). 
 
-12- Design and implementation of Bluetooth wireless signal receiver/transmitter.
+- Design and implementation of a control unit for the LEGv8 instructions.
 
 
 
