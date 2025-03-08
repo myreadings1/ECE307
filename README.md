@@ -62,7 +62,7 @@ On Moodle, you also find the Virtual Lab (Learn Hardware design with FPGAs using
 
 ### Exams
 
-1- Quiz1 Exam (Feb 23, 2025)
+1- Quiz1 Exam (Mar 2, 2025)
 
 2- Midterm Exam (Mar 16th, 2025)
 
