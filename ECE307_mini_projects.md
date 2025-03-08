@@ -28,4 +28,4 @@ Note: For the folloing mini projects, you need to find details in Reference5.
 
 - Design and implementation of a car traffice controller, see Reference 2 section 5.4
 
-
+- Design and implementation of smart water heater, see lecture 1. 
