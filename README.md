@@ -52,6 +52,7 @@ Sec 4.12 (See The Reference Textbook).
 
 ### LAB Lectures
 Note: All lab lectures are available on Moodle webpage. Check the following link [Moodle](https://elearning7.uokufa.edu.iq/eng/course/view.php?id=3562).
+
 On Moodle, you also find the Virtual Lab (Learn Hardware design with FPGAs using DE1-SoC)
 
 
