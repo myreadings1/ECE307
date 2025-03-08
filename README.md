@@ -11,11 +11,11 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 
 ### References
 
-1- Digital Design with an Introduction to The Verilog hdl vhdl and System Verilog by M. Morris R. Mano (Author), Michael D. Ciletti (Author)  [Link](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=sharing) 
+1- Digital Design with an Introduction to The Verilog hdl vhdl and System Verilog by M. Morris R. Mano, Michael D. Ciletti [Link](https://drive.google.com/file/d/1SPY81cQZhXOsGN09_fuG15QfuJIaw2fg/view?usp=sharing) 
 
 2- VHDL Coding And Logic Synthesis [Link](https://drive.google.com/file/d/1WG-vi4pcUCY9YB8IVhpIj1SlwiwiexEo/view?usp=drivesdk)
 
-3- The Designer's Guide to VHDL, Third Edition (Systems on Silicon) by Peter J. Ashenden (Author)
+3- The Designer's Guide to VHDL, Third Edition (Systems on Silicon) by Peter J. Ashenden
 [Link](https://drive.google.com/file/d/1a_RjoF3yabyzO4bksdhGoVfHmQz6OFvj/view?usp=sharing)
 
 4- Circuit Design and Simulation with VHDL, Second edition, Volnei A. Pedroni [Link](https://drive.google.com/file/d/1PC2VUzPonmYPslNSovTmmp2mPv8UF6RO/view?usp=sharing)
