@@ -22,6 +22,8 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 
 5- Computer Organization and Design: The Hardware/Software Interface, ARM® Edition [Link](https://drive.google.com/file/d/1XHrH-naVRDglrNmlE6nt5UqhV9rnPK2v/view?usp=sharing)
 
+6- Introduction to the ARM Processor Using Intel® FPGA Toolchain [Link](https://drive.google.com/file/d/1THSu4TVPGkbw-QTNBi54GVpuhib-Ia_f/view?usp=sharing)
+
 5- Extra Resources: [Link](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
 
 
