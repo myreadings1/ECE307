@@ -24,7 +24,7 @@ This webpage is dedicated for the students of the ECE307 Digital Systems Design 
 
 6- Introduction to the ARM Processor Using Intel® FPGA Toolchain [Link](https://drive.google.com/file/d/1THSu4TVPGkbw-QTNBi54GVpuhib-Ia_f/view?usp=sharing)
 
-5- Extra Resources: [Link](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
+7- Extra Resources: [Link](https://drive.google.com/drive/folders/1rPf9xPuVfFsPdeWmAiKzSUmLtn-UsAuR?usp=drive_link)
 
 
 ### Lectures
