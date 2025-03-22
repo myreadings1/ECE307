@@ -46,6 +46,7 @@ Sec 4.12 (See The Reference Textbook).
 
 7- Lecture 7 (Date: Mar 9th, 2025) [Link](https://drive.google.com/file/d/10cOWWgRBTqeDTGmXRg3w1vruP-vHjmvJ/view?usp=drive_link)
 
+8- Lecture 8 (Date: Mar 23rd, 2025) Midterm1
 
 ### Homeworks
 
@@ -69,7 +70,7 @@ On Moodle, you also find the Virtual Lab (Learn Hardware design with FPGAs using
 
 1- Quiz1 Exam (Mar 2nd, 2025)
 
-2- Midterm1 Exam (Mar 16th, 2025)
+2- Midterm1 Exam (Mar 23rd, 2025)
 
 3- Quiz2 Exam (April 6th, 2025)
 
