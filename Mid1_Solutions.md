@@ -1,6 +1,6 @@
 ### Midterm Exam1 - Solutions 
 
-- Q1 - See Lecture 5 (Link)[https://drive.google.com/file/d/1wPfPMnPsWG6BcfXuofVolk5adw6dAvSO/view]
+- Q1 - See [Lecture 5] (https://drive.google.com/file/d/1wPfPMnPsWG6BcfXuofVolk5adw6dAvSO/view)
 
 - Q2 [Link](https://www.youtube.com/watch?v=dijfwmUvgcI)
 
