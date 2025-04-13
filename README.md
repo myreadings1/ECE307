@@ -72,9 +72,9 @@ On Moodle, you also find the Virtual Lab (Learn Hardware design with FPGAs using
 
 2- Midterm1 Exam (Mar 23rd, 2025) - [Questions](https://drive.google.com/file/d/1Q-zo1CSPnDVaYvLuADufyVN63Yu7-41R/view?usp=sharing) - [Solutions](https://github.com/myreadings1/ECE307/blob/main/Mid1_Solutions.md)
 
-3- Quiz2 Exam (April 13th, 2025) [Questions](https://drive.google.com/file/d/19yGME5iedx1Y2dh2aC0fh2Xid32f3EHP/view?usp=sharing)
+3- Quiz2 Exam (April 6th, 2025) 
 
-4- Midterm2 Exam (April 13th, 2025)
+4- Midterm2 Exam (April 13th, 2025) - [Questions](https://drive.google.com/file/d/19yGME5iedx1Y2dh2aC0fh2Xid32f3EHP/view?usp=sharing)
 
 5- Quiz3 (April 30th, 2025)
 
