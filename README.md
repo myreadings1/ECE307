@@ -48,6 +48,10 @@ Sec 4.12 (See The Reference Textbook).
 
 8- Lecture 8 (Date: Mar 23rd, 2025) Midterm1
 
+9- Lecture 9 (Date: April 6th, 2025) General Review for Sequential Circuit Design + Quiz2
+
+10- Lecture 10 (Date: April 13th, 2025) Midterm2
+
 ### Homeworks
 
 
