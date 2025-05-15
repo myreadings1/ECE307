@@ -82,7 +82,7 @@ On Moodle, you also find the Virtual Lab (Learn Hardware design with FPGAs using
 
 5- Quiz3 (April 30th, 2025)
 
-
+6- Final Exam (May 15, 2025 - Attempt 1) - [Questions](https://drive.google.com/file/d/1MMeeRoyqM6iR0OTnGIR6t3wkAKzVLgWQ/view?usp=drive_link) - [Solutions](https://github.com/myreadings1/ECE307/blob/main/FinalExam_Sol.md)
 
 ### Mini Projects For This Course
 - Projects are due on April 28th, 2025.
